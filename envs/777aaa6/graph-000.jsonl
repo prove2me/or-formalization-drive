@@ -1,0 +1,15 @@
+{"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
+{"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
+{"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_Delta1", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_Delta1", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}

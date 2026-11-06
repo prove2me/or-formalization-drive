@@ -1,0 +1,62 @@
+{
+  "generated_by": "scripts/export/dump_formalpedia.py",
+  "generated_at": "2026-10-27T17:07:28.281812+00:00",
+  "licensing": {
+    "terms_version": "public-content-v3",
+    "effective_at": "2026-09-24T15:55:00Z",
+    "honored_receipt_versions": [
+      "public-content-v3",
+      "public-content-v2"
+    ],
+    "apache_only": true
+  },
+  "selection": "theorems.visibility = 'public' AND deprecated_at IS NULL",
+  "unresolved_statement_imports": [],
+  "environments": [
+    {
+      "dir": "c5ea003",
+      "mathlib_rev": "c5ea00351c28e24afc9f0f84379aa41082b1188f",
+      "toolchain": "leanprover/lean4:v4.30.0",
+      "is_default": false,
+      "theorems": 1746,
+      "definitions": 205,
+      "solutions": 1824,
+      "edges": 5023
+    },
+    {
+      "dir": "0df444a",
+      "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+      "toolchain": "leanprover/lean4:v4.33.1",
+      "is_default": true,
+      "theorems": 34801,
+      "definitions": 10988,
+      "solutions": 22264,
+      "edges": 77202
+    },
+    {
+      "dir": "777aaa6",
+      "mathlib_rev": "777aaa61dcd2a1258d2b4962dbe983ede4d23b2e",
+      "toolchain": "leanprover/lean4:v4.29.0-rc3",
+      "is_default": false,
+      "theorems": 6,
+      "definitions": 3,
+      "solutions": 6,
+      "edges": 15
+    }
+  ],
+  "license": "Apache-2.0",
+  "subset": {
+    "collection": {
+      "id": "fc0fc59a-5741-4f3c-8e61-854785e9ab0e",
+      "slug": "the-or-formalization-drive",
+      "name": "The OR Formalization Drive"
+    },
+    "seeds_generated_at": "2026-10-26T04:33:13.768405+00:00",
+    "rule": "mission goals + theorem_mission members + milestone theorems, closed downward over this snapshot's import graph",
+    "missions": 4288,
+    "seeds": 45189,
+    "seeds_in_snapshot": 42418,
+    "seeds_not_in_snapshot": 2771,
+    "reached_only_through_imports": 5331
+  }
+}
