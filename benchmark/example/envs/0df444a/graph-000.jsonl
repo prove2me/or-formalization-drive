@@ -1,0 +1,2 @@
+{"parent": "SuttonTD.Convergence.theorem_2", "child": "Example.stationary_distribution_exists", "via": ["solution"]}
+{"parent": "FiniteTD.Markov.theorem_3", "child": "Example.stationary_distribution_exists", "via": ["solution"]}

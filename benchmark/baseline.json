@@ -1,0 +1,193 @@
+{
+  "default_env": "0df444a",
+  "environments": {
+    "0df444a": {
+      "theorems": 43679,
+      "definitions": 11265,
+      "status": {
+        "Proved": 32082,
+        "Open": 11088,
+        "Definition": 11265,
+        "Disproved": 509
+      },
+      "edges": 107545,
+      "edges_by_kind": {
+        "theorem->definition": 66037,
+        "theorem->theorem": 29896,
+        "definition->definition": 11603,
+        "definition->theorem": 9
+      },
+      "edges_by_via": {
+        "solution+statement": 49103,
+        "statement": 29726,
+        "solution": 28716
+      },
+      "original_nodes": 54944,
+      "components": 3103,
+      "singletons": 815,
+      "largest": 11085,
+      "largest_share": 0.20175087361677344,
+      "pair_connectivity": 0.06866991813117573,
+      "top_sizes": [
+        11085,
+        7951,
+        4320,
+        1051,
+        757,
+        329,
+        213,
+        183,
+        175,
+        156
+      ]
+    },
+    "777aaa6": {
+      "theorems": 6,
+      "definitions": 3,
+      "status": {
+        "Proved": 6,
+        "Definition": 3
+      },
+      "edges": 15,
+      "edges_by_kind": {
+        "theorem->definition": 15
+      },
+      "edges_by_via": {
+        "statement": 2,
+        "solution+statement": 13
+      },
+      "original_nodes": 9,
+      "components": 2,
+      "singletons": 1,
+      "largest": 8,
+      "largest_share": 0.8888888888888888,
+      "pair_connectivity": 0.7777777777777778,
+      "top_sizes": [
+        8,
+        1
+      ]
+    },
+    "c5ea003": {
+      "theorems": 1762,
+      "definitions": 207,
+      "status": {
+        "Proved": 1697,
+        "Definition": 207,
+        "Open": 57,
+        "Disproved": 8
+      },
+      "edges": 5070,
+      "edges_by_kind": {
+        "theorem->definition": 2158,
+        "theorem->theorem": 2716,
+        "definition->definition": 196
+      },
+      "edges_by_via": {
+        "solution+statement": 1310,
+        "solution": 2908,
+        "statement": 852
+      },
+      "original_nodes": 1969,
+      "components": 88,
+      "singletons": 54,
+      "largest": 676,
+      "largest_share": 0.34332148298628745,
+      "pair_connectivity": 0.17150074116282046,
+      "top_sizes": [
+        676,
+        295,
+        219,
+        168,
+        156,
+        127,
+        44,
+        36,
+        29,
+        24
+      ]
+    }
+  },
+  "hubs": [
+    {
+      "env": "0df444a",
+      "name": "WilliamsonShmoys_PlanarDrawingOn",
+      "kind": "definition",
+      "in_degree": 6671
+    },
+    {
+      "env": "0df444a",
+      "name": "AvramDividend_Classical_SpectrallyNegativeLevy",
+      "kind": "definition",
+      "in_degree": 2342
+    },
+    {
+      "env": "0df444a",
+      "name": "AvramDividend_Classical_DividendStrategy",
+      "kind": "definition",
+      "in_degree": 1014
+    },
+    {
+      "env": "0df444a",
+      "name": "WilliamsonShmoys.planar_edge_count_upper_bound_ef555edc",
+      "kind": "theorem",
+      "in_degree": 817
+    },
+    {
+      "env": "0df444a",
+      "name": "WilliamsonShmoys.maximal_drawable_edge_count_e8a894df",
+      "kind": "theorem",
+      "in_degree": 763
+    },
+    {
+      "env": "0df444a",
+      "name": "AvramDividend_Classical_ScaleFunction",
+      "kind": "definition",
+      "in_degree": 628
+    },
+    {
+      "env": "c5ea003",
+      "name": "matrix_completion_neumann",
+      "kind": "definition",
+      "in_degree": 289
+    },
+    {
+      "env": "0df444a",
+      "name": "NonconvexSplitting_Shared_LimitingSubdiff",
+      "kind": "definition",
+      "in_degree": 208
+    },
+    {
+      "env": "0df444a",
+      "name": "AvramDividend_Classical_TwoSidedExit",
+      "kind": "definition",
+      "in_degree": 181
+    },
+    {
+      "env": "0df444a",
+      "name": "EthierKurtz_SDEState",
+      "kind": "definition",
+      "in_degree": 176
+    }
+  ],
+  "solutions": {
+    "count": 39142,
+    "median_lines": 76,
+    "p90": 626,
+    "p99": 2304,
+    "max": 13044,
+    "over_500": 5131,
+    "over_1000": 1880
+  },
+  "missions": {
+    "missions": 4288,
+    "missions_scored": 3891,
+    "works": 1906,
+    "cone_from": "goal",
+    "goal_components": 1941,
+    "mission_pair_connectivity": 0.06514962020984422,
+    "direct_reuse": 0.017476227190953483,
+    "direct_reuse_cross_work": 0.006168080185042405,
+    "shared_dependency": 0.5764584939604215,
+    "S_reuse": 0.3621177075301979
+  }
+}

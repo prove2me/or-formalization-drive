@@ -12,6 +12,18 @@ Mission membership (`seeds.json`) was read on 2026-10-26.
 
 ![Dependency graph of the collection (2026-10-27 snapshot)](or_galaxy.png)
 
+## Benchmark
+
+[`benchmark/`](benchmark) holds a graph-refinement benchmark on this subset:
+how well a method connects the dependency graph and gets missions to build on
+shared definitions and lemmas. One dependency-free Python file computes the
+baseline and scores a submission.
+
+```sh
+python3 benchmark/or_bench.py stats
+python3 benchmark/or_bench.py score --submission benchmark/example
+```
+
 ## License
 
 Everything in this repository is licensed under [Apache 2.0](LICENSE). Every
