@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SyncPrefix.Huffman.padding
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:03:12.058875+00:00
 -- url     : https://prove2.me/submissions/b13d20c7-6081-4431-adcb-0efa2d3656f7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_SyncPrefix_Huffman_Complexity
 import Theorems.Thm_SyncPrefix_Huffman_sc_disjoint_copies_reduction

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_lemma_5
 -- name    : SyncPrefix.Huffman.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:35:11.697036+00:00
 -- url     : https://prove2.me/theorems/444ad109-24d2-44fb-9fc4-c95ed272378c

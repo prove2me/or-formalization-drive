@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_drawable_supergraph_with_no_drawable_extension
 -- name    : WilliamsonShmoys.drawable_supergraph_with_no_drawable_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:48:27.454992+00:00
 -- url     : https://prove2.me/theorems/89b64cf2-3a44-44b7-8eb8-7bc1b6ae615e

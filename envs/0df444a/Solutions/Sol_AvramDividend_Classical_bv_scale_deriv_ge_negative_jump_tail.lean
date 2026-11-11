@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.bv_scale_deriv_ge_negative_jump_tail
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T00:19:09.198192+00:00
 -- url     : https://prove2.me/submissions/61aa2354-9ca6-4544-9ec8-089e014da2dd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
 import Definitions.Def_AvramDividend_Classical_ScaleFunction

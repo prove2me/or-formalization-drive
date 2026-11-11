@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FakeUserRanking.FORC.lemma_10_goodEvent
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:22:15.665838+00:00
 -- url     : https://prove2.me/submissions/11941edd-e21c-458f-b7c2-88ec1542f457
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Tactic.Linarith
 import Mathlib.Tactic.Ring

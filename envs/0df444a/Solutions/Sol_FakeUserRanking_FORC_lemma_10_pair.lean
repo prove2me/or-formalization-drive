@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FakeUserRanking.FORC.lemma_10_pair
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:53:38.92039+00:00
 -- url     : https://prove2.me/submissions/1adbfc46-e217-48f3-a884-bbd0dc7bdfd9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Algebra.BigOperators.Intervals
 import Mathlib.Tactic.Linarith

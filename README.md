@@ -7,9 +7,10 @@ Every theorem, definition, and accepted solution from
 The subset is self-contained: every local import resolves inside this
 repository.
 
-Snapshot generated 2026-10-27 17:07 UTC.
+Taken from the Formalpedia snapshot of 2026-11-10 (generated 06:00 UTC).
+Mission membership (`seeds.json`) was read on 2026-10-26.
 
-![Dependency graph of the collection](or_galaxy.png)
+![Dependency graph of the collection (2026-10-27 snapshot)](or_galaxy.png)
 
 ## License
 
@@ -26,15 +27,15 @@ submission on Prove2Me, and `index-*.jsonl` records the same.
    preambles or their solutions. Only downward: results elsewhere that use
    these are not included.
 
-42,418 seeds are in this snapshot. The other 2,771 (`missing_seeds.txt`) are
-not in the Formalpedia snapshot this subset was taken from. 5,331 items are included only because a seed imports them.
+42,406 seeds are in this snapshot. The other 2,783 (`missing_seeds.txt`) are
+not in the Formalpedia snapshot this subset was taken from. 14,516 items are included only because a seed imports them.
 
 ## Environments
 
 | Directory | Mathlib | Toolchain | Theorems | Definitions | Solutions | Edges |
 |---|---|---|---|---|---|---|
-| `envs/0df444a` | `0df444a360ea` | leanprover/lean4:v4.33.1 | 34,801 | 10,988 | 22,264 | 77,202 |
-| `envs/c5ea003` | `c5ea00351c28` | leanprover/lean4:v4.30.0 | 1,746 | 205 | 1,824 | 5,023 |
+| `envs/0df444a` | `0df444a360ea` | leanprover/lean4:v4.33.1 | 43,679 | 11,265 | 37,294 | 107,545 |
+| `envs/c5ea003` | `c5ea00351c28` | leanprover/lean4:v4.30.0 | 1,762 | 207 | 1,842 | 5,070 |
 | `envs/777aaa6` | `777aaa61dcd2` | leanprover/lean4:v4.29.0-rc3 | 6 | 3 | 6 | 15 |
 
 ## Layout

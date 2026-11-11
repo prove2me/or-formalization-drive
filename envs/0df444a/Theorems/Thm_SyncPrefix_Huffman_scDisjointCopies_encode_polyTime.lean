@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_scDisjointCopies_encode_polyTime
 -- name    : SyncPrefix.Huffman.scDisjointCopies_encode_polyTime
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:31:59.153722+00:00
 -- url     : https://prove2.me/theorems/9d1f7823-be2b-4cc9-a815-28a5cc8eb2c4

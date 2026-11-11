@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvramDividend.Classical.scale_derivZeroPlus_top_of_bv_infinite_negative_activity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-26T00:14:44.451272+00:00
 -- url     : https://prove2.me/submissions/68ba1a2b-c033-4ec2-933e-32f5c9680640
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_AvramDividend_Classical_SpectrallyNegativeLevy
 import Definitions.Def_AvramDividend_Classical_ScaleFunction

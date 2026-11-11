@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_scale_renewal_derivative_lower_package
 -- name    : AvramDividend.Classical.bv_scale_renewal_derivative_lower_package
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T00:18:15.851124+00:00
 -- url     : https://prove2.me/theorems/90d38fd3-f82e-4194-9807-4db778adea5a

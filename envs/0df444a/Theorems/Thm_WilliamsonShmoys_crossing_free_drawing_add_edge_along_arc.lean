@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_crossing_free_drawing_add_edge_along_arc
 -- name    : WilliamsonShmoys.crossing_free_drawing_add_edge_along_arc
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T15:10:00.841265+00:00
 -- url     : https://prove2.me/theorems/99b3478f-c46a-46d8-a34b-439e538e92dd

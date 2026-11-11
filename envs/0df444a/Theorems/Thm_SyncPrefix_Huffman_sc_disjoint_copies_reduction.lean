@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_sc_disjoint_copies_reduction
 -- name    : SyncPrefix.Huffman.sc_disjoint_copies_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:02:13.024345+00:00
 -- url     : https://prove2.me/theorems/ebee2117-24ae-486e-a7b5-e7682da267c6

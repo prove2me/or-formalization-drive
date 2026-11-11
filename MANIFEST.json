@@ -1,6 +1,6 @@
 {
   "generated_by": "scripts/export/dump_formalpedia.py",
-  "generated_at": "2026-10-27T17:07:28.281812+00:00",
+  "generated_at": "2026-11-10T06:00:05.306159+00:00",
   "licensing": {
     "terms_version": "public-content-v3",
     "effective_at": "2026-09-24T15:55:00Z",
@@ -18,20 +18,20 @@
       "mathlib_rev": "c5ea00351c28e24afc9f0f84379aa41082b1188f",
       "toolchain": "leanprover/lean4:v4.30.0",
       "is_default": false,
-      "theorems": 1746,
-      "definitions": 205,
-      "solutions": 1824,
-      "edges": 5023
+      "theorems": 1762,
+      "definitions": 207,
+      "solutions": 1842,
+      "edges": 5070
     },
     {
       "dir": "0df444a",
       "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
       "toolchain": "leanprover/lean4:v4.33.1",
       "is_default": true,
-      "theorems": 34801,
-      "definitions": 10988,
-      "solutions": 22264,
-      "edges": 77202
+      "theorems": 43679,
+      "definitions": 11265,
+      "solutions": 37294,
+      "edges": 107545
     },
     {
       "dir": "777aaa6",
@@ -55,8 +55,8 @@
     "rule": "mission goals + theorem_mission members + milestone theorems, closed downward over this snapshot's import graph",
     "missions": 4288,
     "seeds": 45189,
-    "seeds_in_snapshot": 42418,
-    "seeds_not_in_snapshot": 2771,
-    "reached_only_through_imports": 5331
+    "seeds_in_snapshot": 42406,
+    "seeds_not_in_snapshot": 2783,
+    "reached_only_through_imports": 14516
   }
 }

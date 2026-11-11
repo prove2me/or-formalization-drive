@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_edge_count_aggregate_components
 -- name    : WilliamsonShmoys.edge_count_aggregate_components
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:46:04.76374+00:00
 -- url     : https://prove2.me/theorems/1716e745-d947-40c7-a5e9-082b625a8f02

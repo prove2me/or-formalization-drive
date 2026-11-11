@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GIGnBounds_Tail_server_comparison
 -- name    : GIGnBounds.Tail.server_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-10-25T00:35:40.885314+00:00
 -- url     : https://prove2.me/theorems/50d6f0f0-11e1-47d4-afa6-66f0cd17fa6d

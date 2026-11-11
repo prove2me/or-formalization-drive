@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeUserRanking_FORC_theorem_3
 -- name    : FakeUserRanking.FORC.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:31:49.691426+00:00
 -- url     : https://prove2.me/theorems/ef4bf091-be66-4ed0-b237-458faa2b7ca9

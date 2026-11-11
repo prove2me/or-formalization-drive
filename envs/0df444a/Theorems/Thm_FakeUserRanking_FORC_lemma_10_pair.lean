@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeUserRanking_FORC_lemma_10_pair
 -- name    : FakeUserRanking.FORC.lemma_10_pair
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:16:29.794998+00:00
 -- url     : https://prove2.me/theorems/8cee71c3-e2bb-47a3-ac82-69078b766ba5

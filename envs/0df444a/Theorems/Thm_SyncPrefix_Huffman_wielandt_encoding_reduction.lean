@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_wielandt_encoding_reduction
 -- name    : SyncPrefix.Huffman.wielandt_encoding_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:02:09.885265+00:00
 -- url     : https://prove2.me/theorems/f03c1a64-ad75-4972-b38b-8887084ca7fe

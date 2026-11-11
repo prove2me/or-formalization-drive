@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeUserRanking_FORC_lemma_16_low_levels
 -- name    : FakeUserRanking.FORC.lemma_16_low_levels
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:36:43.546435+00:00
 -- url     : https://prove2.me/theorems/a8303800-c727-497e-841e-047611ae9186

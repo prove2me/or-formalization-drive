@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.edge_count_from_connected_induced_bounds_282b0fbb
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T10:57:49.9187+00:00
 -- url     : https://prove2.me/submissions/cb9bff11-03eb-4e1a-8ecc-3d34e910cb42
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_WilliamsonShmoys_edge_count_aggregate_components
 import Theorems.Thm_WilliamsonShmoys_connected_component_sums

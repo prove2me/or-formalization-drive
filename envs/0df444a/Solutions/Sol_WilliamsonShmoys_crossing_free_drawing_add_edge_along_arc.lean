@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for WilliamsonShmoys.crossing_free_drawing_add_edge_along_arc
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:11:55.665403+00:00
 -- url     : https://prove2.me/submissions/824aeacf-bf93-4a86-95aa-c42ce5edaaa3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_WilliamsonShmoys_PlanarDrawingOn

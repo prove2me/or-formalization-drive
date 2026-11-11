@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeUserRanking_FORC_lemma_10_goodEvent
 -- name    : FakeUserRanking.FORC.lemma_10_goodEvent
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:05:35.738827+00:00
 -- url     : https://prove2.me/theorems/d0d49f3b-83ef-4a03-a594-912311e3fb10

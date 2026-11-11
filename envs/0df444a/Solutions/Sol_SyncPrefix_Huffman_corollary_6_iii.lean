@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SyncPrefix.Huffman.corollary_6_iii
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T05:17:34.32602+00:00
 -- url     : https://prove2.me/submissions/ff6582cf-ad94-4a15-b526-77b59b9f88c1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_SyncPrefix_Huffman_Complexity
 import Theorems.Thm_SyncPrefix_Huffman_theorem_2

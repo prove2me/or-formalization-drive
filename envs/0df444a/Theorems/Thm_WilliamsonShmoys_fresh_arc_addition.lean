@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_fresh_arc_addition
 -- name    : WilliamsonShmoys.fresh_arc_addition
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:05:05.190711+00:00
 -- url     : https://prove2.me/theorems/c26dab7b-a911-4009-9eaa-168855c4d89f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SyncPrefix.Huffman.sc_disjoint_copies_reduction
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:36:52.667606+00:00
 -- url     : https://prove2.me/submissions/f8ffe7e4-3d6d-4287-9bf4-05f6af68edaa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Finset.Prod
 import Definitions.Def_SyncPrefix_Huffman_Complexity

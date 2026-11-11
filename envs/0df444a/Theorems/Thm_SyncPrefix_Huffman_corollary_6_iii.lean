@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_corollary_6_iii
 -- name    : SyncPrefix.Huffman.corollary_6_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:36:02.830345+00:00
 -- url     : https://prove2.me/theorems/632e09cb-4083-49fb-bbd5-244a9e85a9d0

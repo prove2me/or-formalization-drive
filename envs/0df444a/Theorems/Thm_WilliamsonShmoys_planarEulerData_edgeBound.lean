@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WilliamsonShmoys_planarEulerData_edgeBound
 -- name    : WilliamsonShmoys.planarEulerData_edgeBound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-27T16:37:45.337992+00:00
 -- url     : https://prove2.me/theorems/d0954f24-d409-41f1-ad82-4663af583c0d

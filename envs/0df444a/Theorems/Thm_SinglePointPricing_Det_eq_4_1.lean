@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SinglePointPricing_Det_eq_4_1
 -- name    : SinglePointPricing.Det.eq_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:27:10.993491+00:00
 -- url     : https://prove2.me/theorems/896e239f-69d1-4b99-bc05-c77c50970a39

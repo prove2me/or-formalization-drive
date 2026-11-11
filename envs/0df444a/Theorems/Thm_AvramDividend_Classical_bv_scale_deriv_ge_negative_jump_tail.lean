@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_scale_deriv_ge_negative_jump_tail
 -- name    : AvramDividend.Classical.bv_scale_deriv_ge_negative_jump_tail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-26T00:09:10.007899+00:00
 -- url     : https://prove2.me/theorems/34dfc88a-e817-481e-ab5f-b3e3cb41abcd

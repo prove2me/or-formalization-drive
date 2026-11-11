@@ -1507,7 +1507,7 @@
 {"parent": "KServer.gamPot_le_lazyPot_manhattan", "child": "KServer_workfunctionU", "via": ["solution", "statement"]}
 {"parent": "KServer.injective_or_covering", "child": "KServer_model", "via": ["solution", "statement"]}
 {"parent": "KServer.kserver_conjecture", "child": "KServer_model", "via": ["statement"]}
-{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer_model", "via": ["statement"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer_model", "via": ["solution", "statement"]}
 {"parent": "KServer.lamPot_corner_dispatch", "child": "KServer.lamPot_instance_le_lazyPot_adjacent", "via": ["solution"]}
 {"parent": "KServer.lamPot_corner_dispatch", "child": "KServer.lamPot_instance_le_lazyPot_special", "via": ["solution"]}
 {"parent": "KServer.lamPot_corner_dispatch", "child": "KServer.workFnU_perm", "via": ["solution"]}
@@ -5021,3 +5021,50 @@
 {"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "KServer.workFnU_growth_card_succ_inj", "via": ["solution"]}
 {"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "KServer.workFnU_step_le", "via": ["solution"]}
 {"parent": "KServer.growth_bound_of_uniform_finite_subspaces", "child": "KServer.workFnU_isometry_embedding", "via": ["solution"]}
+{"parent": "KServer.chunk_scale_sizes_price", "child": "KServer_chunk_cond", "via": ["solution", "statement"]}
+{"parent": "KServer.bcr_claim13_relative_efficiency", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_relative_efficiency", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_tight_subchunks", "child": "KServer.chunk_scale_sizes_price", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_tight_subchunks", "child": "KServer.bcr_claim13_relative_efficiency", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.server_to_evader_reduction", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.schedule_exists", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer_evader", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.evader_to_server_offline", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer_evader_encoding", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.mss_randomized_lower_bound", "via": ["solution"]}
+{"parent": "KServer.kserver_distributional_lower_bound", "child": "KServer.exists_lazy_injective_algorithm", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_kernel_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_kernel_construction", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_graded_sampler_construction", "child": "KServer_nonneg_chunk_system", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_graded_sampler_construction", "child": "KServer_binary_read_trace", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_graded_sampler_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_nonneg_race_construction", "child": "KServer_nonneg_chunk_system", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_nonneg_race_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_moment_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_moment_construction", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.nonneg_chunk_positive_support", "child": "KServer_nonneg_chunk_system", "via": ["solution", "statement"]}
+{"parent": "KServer.binary_read_trace_nonanticipation", "child": "KServer_binary_read_trace", "via": ["solution", "statement"]}
+{"parent": "KServer_nonneg_chunk_system", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer_nonneg_chunk_system", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer_bcr_induction_tight", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer_chunk_cond", "via": ["statement"]}
+{"parent": "KServer.bcr_claim13_relative_efficiency", "child": "KServer.race_abs_moment_lower", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_relative_efficiency", "child": "KServer.bcr_claim13_race_moment_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_kernel_construction", "child": "KServer.bcr_claim13_race_atom_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_kernel_construction", "child": "KServer.binary_kernel_of_atom_balance", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_nonneg_race_construction", "child": "KServer.bcr_claim13_product_race_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_nonneg_race_construction", "child": "KServer.bernoulli_fresh_coordinate", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_moment_construction", "child": "KServer.bcr_claim13_race_kernel_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_moment_construction", "child": "KServer.race_kernel_moments", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer.binary_read_trace_nonanticipation", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_product_race_construction", "child": "KServer.bcr_claim13_graded_sampler_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer.bcr_claim13_nonneg_race_construction", "via": ["solution"]}
+{"parent": "KServer.bcr_claim13_race_atom_construction", "child": "KServer.nonneg_chunk_positive_support", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_tv_decay", "child": "mm_martingale", "via": ["solution", "statement"]}
+{"parent": "MarkovMixing.bottleneckStar_pos", "child": "mm_lower", "via": ["statement"]}
+{"parent": "MarkovMixing.evolving_sets_mixing", "child": "MarkovMixing.evolving_sets_tv_decay", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_mixing", "child": "MarkovMixing.bottleneckStar_pos", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_tv_decay", "child": "mm_lower", "via": ["solution"]}
+{"parent": "MarkovMixing.evolving_sets_tv_decay", "child": "mm_mixing", "via": ["solution"]}
+{"parent": "MarkovMixing.bottleneckStar_pos", "child": "mm_martingale", "via": ["solution"]}

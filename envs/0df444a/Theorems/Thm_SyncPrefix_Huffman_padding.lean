@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_padding
 -- name    : SyncPrefix.Huffman.padding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-24T09:35:57.039992+00:00
 -- url     : https://prove2.me/theorems/f93119a2-4e77-4e6b-9f2c-260046481a64

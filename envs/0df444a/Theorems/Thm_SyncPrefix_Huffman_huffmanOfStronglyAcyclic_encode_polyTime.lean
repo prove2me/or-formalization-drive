@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SyncPrefix_Huffman_huffmanOfStronglyAcyclic_encode_polyTime
 -- name    : SyncPrefix.Huffman.huffmanOfStronglyAcyclic_encode_polyTime
--- status  : Open
+-- status  : Proved
 -- author  : @kmehltretter82
 -- created : 2026-10-27T06:20:05.304377+00:00
 -- url     : https://prove2.me/theorems/0c7eab20-e2d8-4ae1-b469-d42ff3379c18

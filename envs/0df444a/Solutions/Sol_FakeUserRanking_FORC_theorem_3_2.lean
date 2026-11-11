@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for FakeUserRanking.FORC.theorem_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @kmehltretter82
 -- created : 2026-10-27T07:14:39.208985+00:00
 -- url     : https://prove2.me/submissions/bf3dd680-7ff0-4d5a-8274-417ec402af9c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Algebra.BigOperators.Intervals
 import Mathlib.Tactic.Linarith
