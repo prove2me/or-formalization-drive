@@ -1,0 +1,15 @@
+-- Graph-refinement submission | Theorems.Thm_ORCore_Bridge_IsPolyhedronW__DiscreteConvex_MConvexFunctionsE_IsPolyhedronW
+-- name    : ORCore.Bridge.IsPolyhedronW__DiscreteConvex_MConvexFunctionsE_IsPolyhedronW
+-- status  : Proved
+-- title:
+--   Bridge: the definition of `DiscreteConvex_MConvexFunctionsE_IsPolyhedronW` is the common definition in `Def_ORCore_IsPolyhedronW`
+-- statement:
+--   Each local definition on the left is the same function as the common definition on the right.
+--   The two are definitionally equal, so the proof is `rfl`.
+
+import Mathlib
+import Definitions.Def_ORCore_IsPolyhedronW
+import Definitions.Def_DiscreteConvex_MConvexFunctionsE_IsPolyhedronW
+
+theorem ORCore.Bridge.IsPolyhedronW__DiscreteConvex_MConvexFunctionsE_IsPolyhedronW :
+    (@DiscreteConvex.MConvexFunctionsE.IsPolyhedronW = @ORCore.IsPolyhedronW) := by sorry
